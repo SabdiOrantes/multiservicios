@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Erwin\\source\\repos\\TallerAnalisis\\TallerAnalisis.csproj": {}
+    "D:\\Carlos Girón\\UMG Ingenieria en Sistemas\\8vo. Semestre\\Analisis de Sistemas II\\Proyecto\\multiservicios\\TallerAnalisis\\TallerAnalisis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Erwin\\source\\repos\\TallerAnalisis\\TallerAnalisis.csproj": {
+    "D:\\Carlos Girón\\UMG Ingenieria en Sistemas\\8vo. Semestre\\Analisis de Sistemas II\\Proyecto\\multiservicios\\TallerAnalisis\\TallerAnalisis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Erwin\\source\\repos\\TallerAnalisis\\TallerAnalisis.csproj",
+        "projectUniqueName": "D:\\Carlos Girón\\UMG Ingenieria en Sistemas\\8vo. Semestre\\Analisis de Sistemas II\\Proyecto\\multiservicios\\TallerAnalisis\\TallerAnalisis.csproj",
         "projectName": "TallerAnalisis",
-        "projectPath": "C:\\Users\\Erwin\\source\\repos\\TallerAnalisis\\TallerAnalisis.csproj",
-        "packagesPath": "C:\\Users\\Erwin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Erwin\\source\\repos\\TallerAnalisis\\obj\\",
+        "projectPath": "D:\\Carlos Girón\\UMG Ingenieria en Sistemas\\8vo. Semestre\\Analisis de Sistemas II\\Proyecto\\multiservicios\\TallerAnalisis\\TallerAnalisis.csproj",
+        "packagesPath": "C:\\Users\\crmgi\\.nuget\\packages\\",
+        "outputPath": "D:\\Carlos Girón\\UMG Ingenieria en Sistemas\\8vo. Semestre\\Analisis de Sistemas II\\Proyecto\\multiservicios\\TallerAnalisis\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Erwin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\crmgi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -53,6 +49,10 @@
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
               "version": "[3.0.3, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[3.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
