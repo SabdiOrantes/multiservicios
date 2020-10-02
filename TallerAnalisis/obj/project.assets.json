@@ -8507,23 +8507,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Erwin\\.nuget\\packages\\": {},
+    "C:\\Users\\soran\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Erwin\\source\\repos\\TallerAnalisis\\TallerAnalisis.csproj",
+      "projectUniqueName": "C:\\ProyectoAnalisis\\multiservicios\\TallerAnalisis\\TallerAnalisis.csproj",
       "projectName": "TallerAnalisis",
-      "projectPath": "C:\\Users\\Erwin\\source\\repos\\TallerAnalisis\\TallerAnalisis.csproj",
-      "packagesPath": "C:\\Users\\Erwin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Erwin\\source\\repos\\TallerAnalisis\\obj\\",
+      "projectPath": "C:\\ProyectoAnalisis\\multiservicios\\TallerAnalisis\\TallerAnalisis.csproj",
+      "packagesPath": "C:\\Users\\soran\\.nuget\\packages\\",
+      "outputPath": "C:\\ProyectoAnalisis\\multiservicios\\TallerAnalisis\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Erwin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\soran\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -8587,6 +8587,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.0.1, 3.0.1]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.0.3, 3.0.3]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
